@@ -1,0 +1,31 @@
+LevelSender
+Serial: 302317
+Location: zhuzagash10e
+Battery: 75%
+Sample Rate: 1 minutes
+Report Rate: 12 hours
+State: reporting 
+Start Report: 10/06/2019 07:00:00
+
+Logger 1
+Location: 10E
+Type: Levelogger Edge, M30, 3.0040
+Serial: 2082870
+Battery: 94%
+Total Logs: 24901 of 40000
+Log Rate: 60 seconds
+Memory Mode: slate
+Log Type: linear
+State: started
+Start Logger: 09/06/2019 12:00:00
+
+Logger 2
+NA
+
+
+Logger 1 Samples
+Time, Temperature( C), Level(m)
+25/06/2019 07:00:00, 9.4159, 17.5241  
+25/06/2019 07:01:00, 9.4109, 17.5209  
+
+MESSAGES: Email report 33, LS reporting, L1 started, L2 off, 
